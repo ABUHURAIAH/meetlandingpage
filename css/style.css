@@ -1,6 +1,6 @@
 .meet-page {
     max-width: 144rem;
-    height: 189.5rem;
+    /* height: 189.5rem; */
     background-color: #FAFAFA;
     margin: 0 auto;
     overflow: hidden;
@@ -196,7 +196,7 @@ button {
 }
 
 .footer {
-    margin: 0 auto;
+    margin: 2rem auto;
     max-width: 144rem;
     height: 30.8rem;
     background: linear-gradient(rgba(77, 150, 169, 0.7), rgba(77, 150, 169, 0.7)),
